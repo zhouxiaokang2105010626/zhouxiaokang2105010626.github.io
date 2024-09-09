@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "China Hunan"
-title                    : "Lihong Zhang"
+title                    : "Xiaokang Zhou"
 title_separator          : "-"
-name                     : &name "Lihong Zhang"
+name                     : &name "Xiaokang Zhou"
 description              : &description "personal description"
 url                      : https://zlihong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lihong Zhang (章丽红)"
+  name             : "Xiaokang Zhou (周小康)"
   avatar           : "profile1.png"
   bio              : "Undergraduate student in Hunan University of Science and Technology"
   location         : "China Hunan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zlhy04@gmail.com"
+  email            : "xiaokangz1018@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
