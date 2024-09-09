@@ -32,7 +32,7 @@ IEEE Computer Society, pp. 1219‑1224,2024  (CCF C)
   <br>
   **源码地址**：[github.com/zhouxiaokang2105010626/Traceability-analysis-of-network-attacks](https://github.com/zhouxiaokang2105010626/Traceability-analysis-of-network-attacks)
   
-  **跨域业务流程开放协作工具**  2023.09
++ **跨域业务流程开放协作工具**  2023.09-2024.02
   
   **项目简介**：本工具旨在解决跨组织协作中业务语义不一致和价值冲突问题。通过设计协调器机制，参与者通过策略事件完成协作和价值转换。从业务流程、表单、组织等多角度构建协作，基于流程引擎快速构建协作，提升服务质量
   <br>
