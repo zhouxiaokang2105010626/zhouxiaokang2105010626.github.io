@@ -11,9 +11,9 @@ title                    : "Xiaokang Zhou"
 title_separator          : "-"
 name                     : &name "Xiaokang Zhou"
 description              : &description "personal description"
-url                      : https://zlihong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhouxiaokang2105010626.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Zlihong/zlihong.github.io"
+repository               : "zhouxiaokang2105010626.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) 
 words_per_minute         : 160
